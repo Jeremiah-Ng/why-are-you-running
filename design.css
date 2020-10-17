@@ -1,0 +1,31 @@
+body{
+text-align: center;
+font-family: monospace;
+margin: auto;
+}
+img{
+width: 400px;
+border-style:solid;
+padding: 10px;
+border-radius: 100px;
+}
+.line{
+height: 6px;
+width: 100px;
+background-color: black;
+margin: auto;
+}
+#main {
+background-image: linear-gradient( red,orange,yellow,green,blue,indigo,violet);
+position: absolute;
+top:0;
+right: 0;
+left: 0;
+bottom: 0;
+}
+#hax {
+font-family: fantasy;
+font-size: 17px;
+max-width: 450px;
+margin: 25px auto;
+}
